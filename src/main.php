@@ -1,14 +1,10 @@
 <?php
 
-require_once 'vendor/autoload.php';
+require_once '../vendor/autoload.php';
 
 $instagram = new \InstagramAPI\Instagram();
 $instagram->login('', '');
-//$userID = $ig->people->getUserIdForName('interesnie__video');
-//$image = $ig->timeline->getUserFeed($userID);
-//
-//$url = json_decode(json_encode($image))->candidates[0]->url;
-//$instagram->direct->getThread($push->getActionParam('id'))->getThread()->getItems()
+
 var_dump($url);
 
 
@@ -57,9 +53,4 @@ function getPendingMessages()
     $instagram->direct->approvePendingThreads($threads);
 
     return $messages;
-}
-
-function notifyOwner($messages)
-{
-
 }
