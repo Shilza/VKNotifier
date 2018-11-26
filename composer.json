@@ -2,5 +2,11 @@
     "require": {
         "mgp25/instagram-php": "^5.0",
         "guzzlehttp/guzzle": "^6.3"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "InstaWorker\\":"src/"
+        }
     }
 }
