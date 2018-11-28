@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ad69cf3-7c43-4eab-982f-2e240db3f329" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InstaWorker.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/InstaWorker.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/notifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/notifier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vk_config.v2.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/vk_config.v2.json" afterDir="false" />
-    </list>
+    <list default="true" id="0ad69cf3-7c43-4eab-982f-2e240db3f329" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -176,7 +171,7 @@
       <path value="$PROJECT_DIR$/vendor/composer" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="720" />
@@ -244,18 +239,17 @@
       <workItem from="1543133251364" duration="24587000" />
       <workItem from="1543219440962" duration="13273000" />
       <workItem from="1543267597499" duration="44000" />
-      <workItem from="1543392164414" duration="4326000" />
+      <workItem from="1543392164414" duration="4611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42230000" />
+    <option name="totallyTimeSpent" value="42515000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5015129" side_tool="true" weight="0.5194805" />
@@ -264,7 +258,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49848714" visible="true" weight="0.07954545" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49848714" visible="true" weight="0.4642857" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />

@@ -8,6 +8,7 @@ __pycache__/
 
 # php
 vendor/
+src/vk_config.v2.json
 
 # Distribution / packaging
 .Python
